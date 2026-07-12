@@ -16,7 +16,7 @@
 
 <br>
 
-## `{ WHOAMI }`
+## `{ WHO AM I }`
 
 <div align="center">
 
