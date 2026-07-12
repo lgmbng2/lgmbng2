@@ -152,7 +152,7 @@ Aktif sebagai Pimpinan Umum LPM DIGMA Periode 2024-2025.
 
 **🏫 Politeknik Negeri Tanah Laut**
 
-*(Lengkapi dengan jurusan dan tahun masuk–lulus)*
+*Teknologi Informasi - 2023 - 2026*
 
 <br>
 
