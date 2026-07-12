@@ -69,6 +69,93 @@ OPEN FOR  : Freelance | Collab | Discussion
 
 <br>
 
+## `{ PROJECTS }`
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+**🗂️ Smart Persuratan**
+`Digital Signature` `Generate Surat` `Productivity` `Integration`
+
+Sistem layanan persuratan elektronik yang mempermudah proses pengajuan, pembuatan surat, review, dan approval surat secara digital. Terintegrasi dengan WhatsApp untuk notifikasi dan Google Calendar untuk manajemen agenda.
+
+`X.509` `Go` `React` `RBAC` `Google Calendar API` `WhatsApp API`
+
+</td>
+<td width="50%" valign="top">
+
+**🧠 Smart Psikologi**
+`Digitalisasi` `Productivity` `Healthcare`
+
+Sistem layanan psikologi yang mempermudah proses pendaftaran, penjadwalan, serta pencatatan sesi terapi, hingga hasil dan arsip pasien.
+
+`Go` `React` `RBAC`
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+**📡 Prototype dan Monitoring Sistem IOT**
+`Mobile` `Monitoring` `IOT`
+
+Aplikasi mobile untuk memonitoring sistem IOT dan prototype pengisian tandon air otomatis.
+
+`Kotlin` `Android Studio` `Firebase`
+
+</td>
+<td width="50%" valign="top">
+
+**🐔 Sistem Manajemen Produksi "GO CHICKEN GO"**
+`Management` `Production` `Integration`
+
+Sistem manajemen produksi untuk usaha ayam "Go Chicken Go" dengan fitur pemesanan, pembelian, mixing, dan integrasi WhatsApp.
+
+`CI4` `MySQL` `WhatsApp API`
+
+</td>
+</tr>
+</table>
+
+<br>
+
+## `{ EXPERIENCE }`
+
+**🎓 Smart Campus Politala Developer** — *Politeknik Negeri Tanah Laut* `2025 - 2026`
+
+Mengembangkan Smart Campus Politala pada Modul Layanan Umum. Bertanggung jawab dalam membangun modul Smart Persuratan dan modul Smart Psikologi, serta membantu membangun arsitektur sistem Smart Campus dengan menerapkan metode Role-Based Access Control (RBAC) dan integrasi WhatsApp & Google Calendar.
+- Membangun Modul Smart Psikologi
+- Membangun Modul Smart Persuratan
+- Membantu membangun base architecture system
+
+<br>
+
+**🏭 Teaching Factory TI Politala Developer** — *Politeknik Negeri Tanah Laut* `2024 - 2025`
+
+Mengerjakan website sistem manajemen produksi "Go Chicken Go" bekerja sama dengan tim, bertanggung jawab sebagai full stack developer pada fitur tertentu.
+- Membangun sistem dengan menggunakan CI4
+- Membangun struktur database
+
+<br>
+
+**📰 Pimpinan Umum LPM DIGMA** — *Politeknik Negeri Tanah Laut* `2024 - 2025`
+
+Aktif sebagai Pimpinan Umum LPM DIGMA Periode 2024-2025.
+- Bertanggung jawab dalam mengelola kegiatan dan program kerja LPM DIGMA
+- Bertanggung jawab dalam merancang dan melaksanakan kegiatan yang mendukung misi organisasi
+- Bertanggung jawab dalam memimpin tim dan koordinasi antar divisi
+
+<br>
+
+## `{ EDUCATION }`
+
+**🏫 Politeknik Negeri Tanah Laut**
+
+*(Lengkapi dengan jurusan dan tahun masuk–lulus)*
+
+<br>
+
 ## `{ GITHUB STATS }`
 
 <div align="center">
