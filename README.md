@@ -152,7 +152,7 @@ Aktif sebagai Pimpinan Umum LPM DIGMA Periode 2024-2025.
 
 **🏫 Politeknik Negeri Tanah Laut**
 
-*Teknologi Informasi - 2023 - 2026*
+*Diploma 3 Teknologi Informasi GPA 3.79/4.00 | 2023 - 2026*
 
 <br>
 
