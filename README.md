@@ -16,7 +16,7 @@
 
 <br>
 
-## `{ WHO AM I }`
+## `{ WHOAMI }`
 
 <div align="center">
 
@@ -72,11 +72,6 @@ OPEN FOR  : Freelance | Collab | Discussion
 ## `{ GITHUB STATS }`
 
 <div align="center">
-
-<img height="165em" src="https://github-readme-stats.vercel.app/api?username=lgmbng2&show_icons=true&hide_border=true&bg_color=0A192F&title_color=00B4D8&icon_color=0D3B66&text_color=8FD9FF&ring_color=0D3B66&cache_seconds=0"/>
-<img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lgmbng2&layout=compact&hide_border=true&bg_color=0A192F&title_color=00B4D8&text_color=8FD9FF&langs_count=8&cache_seconds=0"/>
-
-<br>
 
 <img src="https://streak-stats.demolab.com/?user=lgmbng2&hide_border=true&background=0A192F&ring=0D3B66&fire=00B4D8&currStreakLabel=00B4D8&sideLabels=8FD9FF&currStreakNum=8FD9FF&sideNums=8FD9FF&dates=8FD9FF"/>
 
